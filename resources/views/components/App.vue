@@ -1,3 +1,3 @@
 <template>
-    <h1>This is my Vue App</h1>
+    <h1>Vue test text</h1>
 </template>
